@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk-12.0.1">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/ADMIN/eclipse-workspace/QuanLyThuVien_Swing/lib/commons-codec-1.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ADMIN/eclipse-workspace/QuanLyThuVien_Swing/lib/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ADMIN/eclipse-workspace/QuanLyThuVien_Swing/lib/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ADMIN/eclipse-workspace/QuanLyThuVien_Swing/lib/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ADMIN/eclipse-workspace/QuanLyThuVien_Swing/lib/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ADMIN/eclipse-workspace/QuanLyThuVien_Swing/lib/jfreechart-1.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ADMIN/eclipse-workspace/QuanLyThuVien_Swing/lib/mysql-connector.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ADMIN/eclipse-workspace/QuanLyThuVien_Swing/lib/poi-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ADMIN/eclipse-workspace/QuanLyThuVien_Swing/lib/poi-ooxml-schemas-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ADMIN/eclipse-workspace/QuanLyThuVien_Swing/lib/xmlbeans-3.1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
